@@ -1,0 +1,17 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 59%;
+}
+.slider-img{
+    width: 100px;
+    height: 100px;
+}
+.nav-btn{
+    background-color: blueviolet;
+    color: blue;
+}
+marquee{
+    background-color: aquamarine;
+    color: blue;
+}
